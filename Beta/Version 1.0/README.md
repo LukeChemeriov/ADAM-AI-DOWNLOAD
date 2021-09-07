@@ -10,7 +10,8 @@ If for some reason the above link doesn't work, just copy and paste this into yo
 
 Thanks for participating!
 
-*NB: The agreements in the installer package still apply, even though this is a beta build.*
+*NB: The agreements in the installer package still apply, even though this is a scrapped beta build.*
+*Instead of it being in the control of MD Dev, when the company was liquidised the controll passed to DDC Dev, where I work now*
 
 <hr>
 
